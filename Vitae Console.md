@@ -1,4 +1,4 @@
-Vitae Console
+VitaE Console
 
 Este es un sistema sencillo para registrar y consultar hojas de vida, pensado para cualquier tipo de usuario que quiera gestionar información personal, académica y profesional de diferentes personas de manera fácil.
 
